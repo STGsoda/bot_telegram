@@ -1,2 +1,2 @@
 # bot_telegram
-this is test bot for Telegram. If u will be use it, read file "READ ME"
+If you use the "/mute" command, then you will need the exact user ID
